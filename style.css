@@ -375,7 +375,7 @@ body{
 
 }
 section{
-    display: flex;
+    display: grid;
     flex-wrap: wrap;
 }
 .container1{
@@ -757,4 +757,5 @@ footer{
     color: #090909;
     font-size: 14px;
     margin-top: 10px;
+
 }
