@@ -375,7 +375,7 @@ body{
 
 }
 section{
-    display: grid;
+    display: flex;
     flex-wrap: wrap;
 }
 .container1{
@@ -759,3 +759,4 @@ footer{
     margin-top: 10px;
 
 }
+
