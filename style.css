@@ -9,6 +9,7 @@
     outline: none;
     scroll-behavior: smooth;
     font-family:"Poppins", sans-serif;
+    font-size:0.8em;
 }
 body{
     background: #1f242d;
@@ -760,5 +761,6 @@ footer{
     margin-top: 10px;
 
 }
+
 
 
